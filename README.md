@@ -52,6 +52,5 @@ Here are some of my notable projects:
 - 📧 Email: [jamesjebersonm@gmail.com](mailto:jamesjebersonm@gmail.com)
 - 🌐 Portfolio: [My Data Science Portfolio](https://www.datascienceportfol.io/jamesjebersonm)
 - 🔗 LinkedIn: [James Jeberson M](https://www.linkedin.com/in/james-jeberson-m)
-- 🧑‍💻 GitHub: [JamesJeberson](https://github.com/JamesJeberson)
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss data-driven solutions!
