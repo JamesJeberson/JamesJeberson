@@ -18,31 +18,32 @@ Welcome to my GitHub profile! I'm a skilled Data Science enthusiast with a solid
   - *Tools/Platforms:* Tableau, Power BI, Azure Databricks, Excel, Jupyter Notebook
   - *Core Areas:* Machine Learning, Data Analytics, Deep Learning, Exploratory Data Analysis (EDA), Data Governance
 
-- *🎓 Education:* Bachelor of Engineering in Mechanical Engineering with First Class.
+- *🎓 Education:* Bachelor of Engineering in Mechanical Engineering with First Class honors.
 
 ---
 
 ## 📂 Featured Projects
 Here are some of my notable projects, showcasing diverse problem-solving techniques and technologies:
 
-### 1. [Predicting Compressive Strength of Concrete using Neural Networks](https://github.com/JamesJeberson/Predicting-Compressive-Strength-of-Concrete-using-Neural-Networks)
+### 1. [Rainfall Prediction – Classification Model](https://github.com/JamesJeberson/Rainfall-Prediction-Classification-model)
+- *Objective:* Predict whether it will rain tomorrow based on weather data.
+- *Technologies:* Python, Scikit-Learn, Jupyter Notebook
+- *Models Used:* Decision Trees, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression
+- *Approach:*
+  - Conducted Exploratory Data Analysis (EDA) to understand data distributions and relationships.
+  - Performed data preprocessing, including handling missing values and feature engineering.
+  - Trained multiple classification models and evaluated their performance using metrics such as accuracy and F1-score.
+  - Compared model performances to select the most effective predictor for rainfall.
+
+---
+
+### 2. [Predicting Compressive Strength of Concrete using Neural Networks](https://github.com/JamesJeberson/Predicting-Compressive-Strength-of-Concrete-using-Neural-Networks)
 - *Objective:* Build a predictive model to estimate the compressive strength of concrete based on its ingredients.
 - *Technologies:* Python, Keras, Jupyter Notebook
 - *Approach:* 
   - Developed and trained artificial neural networks using Keras.
   - Enhanced performance with normalization, additional hidden layers, and increased epochs.
   - Achieved optimized results through hyperparameter tuning.
-
----
-
-### 2. [Rainfall Prediction – Classification Model](https://github.com/JamesJeberson/Rainfall-Prediction-Classification-model)
-- *Objective:* Predict whether it will rain tomorrow based on weather data.
-- *Technologies:* Python, Scikit-Learn, Jupyter Notebook
-- *Models Used:* Logistic Regression, KNN, Decision Trees, SVM, Linear Regression
-- *Approach:*
-  - Performed data preprocessing, feature engineering, and scaling.
-  - Evaluated the performance of multiple models and compared metrics such as accuracy and F1-score.
-  - Selected the best-performing model for deployment.
 
 ---
 
