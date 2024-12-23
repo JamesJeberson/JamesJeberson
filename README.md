@@ -25,7 +25,31 @@ Welcome to my GitHub profile! I'm a skilled Data Science enthusiast with a solid
 ## 📂 Featured Projects
 Here are some of my notable projects, showcasing diverse problem-solving techniques and technologies:
 
-### 1. [Rainfall Prediction – Classification Model](https://github.com/JamesJeberson/Rainfall-Prediction-Classification-model)
+Rotten Tomatoes - Audience Rating Prediction
+Objective: Predict audience ratings for movies based on various features like genre, director, cast, and more.
+
+Technologies: Python, Scikit-Learn, XGBoost, CatBoost, TensorFlow, Jupyter Notebook
+
+Models Used: Linear Regression (Ridge & Lasso), XGBoost Regressor, CatBoost Regressor, Neural Networks
+
+Approach:
+
+Conducted data cleaning and preprocessing, including handling missing values, removing duplicates, and encoding categorical variables.
+Performed feature engineering to prepare the dataset for machine learning models.
+Trained and evaluated multiple regression models using metrics like RMSE and R².
+Compared model performances to identify the best predictor for audience ratings.
+
+### 1. [Rotten Tomatoes - Audience Rating Prediction](https://github.com/YourUsername/Rotten-Tomatoes-Audience-Rating-Prediction)
+- *Objective:* Predict audience ratings for movies based on various features like genre, director, cast, and more.
+- *Technologies:* Python, Scikit-Learn, XGBoost, CatBoost, TensorFlow, Jupyter Notebook
+- *Models Used:* Linear Regression (Ridge & Lasso), XGBoost Regressor, CatBoost Regressor, Neural Networks
+- *Approach:*
+  - Conducted data cleaning and preprocessing, including handling missing values, removing duplicates, and encoding categorical variables.
+  - Performed feature engineering to prepare the dataset for machine learning models.
+  - Trained and evaluated multiple regression models using metrics like RMSE and R².
+  - Compared model performances to identify the best predictor for audience ratings.
+
+### 2. [Rainfall Prediction – Classification Model](https://github.com/JamesJeberson/Rainfall-Prediction-Classification-model)
 - *Objective:* Predict whether it will rain tomorrow based on weather data.
 - *Technologies:* Python, Scikit-Learn, Jupyter Notebook
 - *Models Used:* Decision Trees, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression
@@ -37,7 +61,7 @@ Here are some of my notable projects, showcasing diverse problem-solving techniq
 
 ---
 
-### 2. [Predicting Compressive Strength of Concrete using Neural Networks](https://github.com/JamesJeberson/Predicting-Compressive-Strength-of-Concrete-using-Neural-Networks)
+### 3. [Predicting Compressive Strength of Concrete using Neural Networks](https://github.com/JamesJeberson/Predicting-Compressive-Strength-of-Concrete-using-Neural-Networks)
 - *Objective:* Build a predictive model to estimate the compressive strength of concrete based on its ingredients.
 - *Technologies:* Python, Keras, Jupyter Notebook
 - *Approach:* 
@@ -47,7 +71,7 @@ Here are some of my notable projects, showcasing diverse problem-solving techniq
 
 ---
 
-### 3. [House Prices Prediction – Regression Model](https://github.com/JamesJeberson/House-Prices-Regression)
+### 4. [House Prices Prediction – Regression Model](https://github.com/JamesJeberson/House-Prices-Regression)
 - *Objective:* Predict house prices for Kaggle competition datasets.
 - *Technologies:* Python, Scikit-Learn, XGBoost, Jupyter Notebook
 - *Models Used:* Linear Regression, Random Forest, XGBoost Regressor
@@ -58,7 +82,7 @@ Here are some of my notable projects, showcasing diverse problem-solving techniq
 
 ---
 
-### 4. [Exploratory Data Analysis (EDA) for Data Science and ML](https://github.com/JamesJeberson/EDA-for-Data-Science-and-ML)
+### 5. [Exploratory Data Analysis (EDA) for Data Science and ML](https://github.com/JamesJeberson/EDA-for-Data-Science-and-ML)
 - *Objective:* Extract insights and prepare data for machine learning models.
 - *Technologies:* Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 - *Approach:*
