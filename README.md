@@ -39,7 +39,7 @@ Performed feature engineering to prepare the dataset for machine learning models
 Trained and evaluated multiple regression models using metrics like RMSE and R².
 Compared model performances to identify the best predictor for audience ratings.
 
-### 1. [Rotten Tomatoes - Audience Rating Prediction](https://github.com/YourUsername/Rotten-Tomatoes-Audience-Rating-Prediction)
+### 1. [Rotten Tomatoes - Audience Rating Prediction](https://github.com/JamesJeberson/Rotten-Tomatoes-Audience-Rating-Prediction)
 - *Objective:* Predict audience ratings for movies based on various features like genre, director, cast, and more.
 - *Technologies:* Python, Scikit-Learn, XGBoost, CatBoost, TensorFlow, Jupyter Notebook
 - *Models Used:* Linear Regression (Ridge & Lasso), XGBoost Regressor, CatBoost Regressor, Neural Networks
