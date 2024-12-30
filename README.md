@@ -25,20 +25,6 @@ Welcome to my GitHub profile! I'm a skilled Data Science enthusiast with a solid
 ## 📂 Featured Projects
 Here are some of my notable projects, showcasing diverse problem-solving techniques and technologies:
 
-Rotten Tomatoes - Audience Rating Prediction
-Objective: Predict audience ratings for movies based on various features like genre, director, cast, and more.
-
-Technologies: Python, Scikit-Learn, XGBoost, CatBoost, TensorFlow, Jupyter Notebook
-
-Models Used: Linear Regression (Ridge & Lasso), XGBoost Regressor, CatBoost Regressor, Neural Networks
-
-Approach:
-
-Conducted data cleaning and preprocessing, including handling missing values, removing duplicates, and encoding categorical variables.
-Performed feature engineering to prepare the dataset for machine learning models.
-Trained and evaluated multiple regression models using metrics like RMSE and R².
-Compared model performances to identify the best predictor for audience ratings.
-
 ### 1. [Rotten Tomatoes - Audience Rating Prediction](https://github.com/JamesJeberson/Rotten-Tomatoes-Audience-Rating-Prediction)
 - *Objective:* Predict audience ratings for movies based on various features like genre, director, cast, and more.
 - *Technologies:* Python, Scikit-Learn, XGBoost, CatBoost, TensorFlow, Jupyter Notebook
