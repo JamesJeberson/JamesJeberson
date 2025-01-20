@@ -25,7 +25,21 @@ Welcome to my GitHub profile! I'm a skilled Data Science enthusiast with a solid
 ## 📂 Featured Projects
 Here are some of my notable projects, showcasing diverse problem-solving techniques and technologies:
 
-### 1. [Rotten Tomatoes - Audience Rating Prediction](https://github.com/JamesJeberson/Rotten-Tomatoes-Audience-Rating-Prediction)
+### 1. [AI Assistant with Dynamic Personalities](https://github.com/JamesJeberson/AI-Assistant-with-Dynamic-Personalities)
+- *Objective:* Develop an AI assistant capable of adopting multiple personalities (formal, casual, cheerful) and providing dynamic, context-aware responses based on user inputs.
+- *Technologies:* Python, Flask, IBM Watsonx, LangChain, Pydantic, HTML, CSS, JavaScript
+- *Models Used:* Llama3, Granite, Mixtral
+- *Approach:*
+  - Designed and implemented three distinct personalities (formal, casual, cheerful) using custom system prompts.
+  - Integrated IBM Watsonx language models (Llama3, Granite, Mixtral) with LangChain for natural language understanding and response generation.
+  - Built a JSON-based output parser using Pydantic to ensure structured and interpretable AI responses.
+  - Created a responsive front-end using HTML, CSS, and JavaScript for seamless user interaction.
+  - Developed Flask APIs to handle user queries, invoke the appropriate AI model, and return tailored responses.
+  - Tested and refined the assistant to ensure accurate, user-friendly, and contextually relevant interactions..
+
+---
+ 
+### 2. [Rotten Tomatoes - Audience Rating Prediction](https://github.com/JamesJeberson/Rotten-Tomatoes-Audience-Rating-Prediction)
 - *Objective:* Predict audience ratings for movies based on various features like genre, director, cast, and more.
 - *Technologies:* Python, Scikit-Learn, XGBoost, CatBoost, TensorFlow, Jupyter Notebook
 - *Models Used:* Linear Regression (Ridge & Lasso), XGBoost Regressor, CatBoost Regressor, Neural Networks
@@ -33,9 +47,11 @@ Here are some of my notable projects, showcasing diverse problem-solving techniq
   - Conducted data cleaning and preprocessing, including handling missing values, removing duplicates, and encoding categorical variables.
   - Performed feature engineering to prepare the dataset for machine learning models.
   - Trained and evaluated multiple regression models using metrics like RMSE and R².
-  - Compared model performances to identify the best predictor for audience ratings.
+  - Compared model performances to identify the best predictor for audience ratings
 
-### 2. [Rainfall Prediction – Classification Model](https://github.com/JamesJeberson/Rainfall-Prediction-Classification-model)
+---
+
+### 3. [Rainfall Prediction – Classification Model](https://github.com/JamesJeberson/Rainfall-Prediction-Classification-model)
 - *Objective:* Predict whether it will rain tomorrow based on weather data.
 - *Technologies:* Python, Scikit-Learn, Jupyter Notebook
 - *Models Used:* Decision Trees, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression
@@ -47,7 +63,7 @@ Here are some of my notable projects, showcasing diverse problem-solving techniq
 
 ---
 
-### 3. [Predicting Compressive Strength of Concrete using Neural Networks](https://github.com/JamesJeberson/Predicting-Compressive-Strength-of-Concrete-using-Neural-Networks)
+### 4. [Predicting Compressive Strength of Concrete using Neural Networks](https://github.com/JamesJeberson/Predicting-Compressive-Strength-of-Concrete-using-Neural-Networks)
 - *Objective:* Build a predictive model to estimate the compressive strength of concrete based on its ingredients.
 - *Technologies:* Python, Keras, Jupyter Notebook
 - *Approach:* 
@@ -57,7 +73,7 @@ Here are some of my notable projects, showcasing diverse problem-solving techniq
 
 ---
 
-### 4. [House Prices Prediction – Regression Model](https://github.com/JamesJeberson/House-Prices-Regression)
+### 5. [House Prices Prediction – Regression Model](https://github.com/JamesJeberson/House-Prices-Regression)
 - *Objective:* Predict house prices for Kaggle competition datasets.
 - *Technologies:* Python, Scikit-Learn, XGBoost, Jupyter Notebook
 - *Models Used:* Linear Regression, Random Forest, XGBoost Regressor
@@ -68,7 +84,7 @@ Here are some of my notable projects, showcasing diverse problem-solving techniq
 
 ---
 
-### 5. [Exploratory Data Analysis (EDA) for Data Science and ML](https://github.com/JamesJeberson/EDA-for-Data-Science-and-ML)
+### 6. [Exploratory Data Analysis (EDA) for Data Science and ML](https://github.com/JamesJeberson/EDA-for-Data-Science-and-ML)
 - *Objective:* Extract insights and prepare data for machine learning models.
 - *Technologies:* Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 - *Approach:*
@@ -79,8 +95,8 @@ Here are some of my notable projects, showcasing diverse problem-solving techniq
 ---
 
 ## 🎓 Certifications
+- *IBM AI Engineer Professional Certificate*
 - *Google Data Analytics Professional Certificate*
-- *Deep Learning with TensorFlow and Keras (IBM)*
 - *Microsoft Certified Power Platform Developer Associate*
 - *Azure Databricks & Spark for Data Engineers (Udemy)*
 
