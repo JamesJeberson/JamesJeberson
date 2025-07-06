@@ -1,22 +1,37 @@
 # Hi, I'm James Jeberson M 👋
 
-*Data Science Enthusiast | Google Data Analytics Professional | Passionate Problem-Solver*
+*Data Science Enthusiast | AI Engineer Professional | Google Data Analytics Professional | Passionate Problem-Solver*
 
-Welcome to my GitHub profile! I'm a skilled Data Science enthusiast with a solid foundation in data analysis, machine learning, and deep learning. With professional experience as a System Engineer and a strong academic background, I strive to turn data into actionable insights and impactful solutions.
+Welcome to my GitHub profile! I'm a skilled Data Science enthusiast with 4 years of experience delivering AI-powered solutions across domains like manufacturing, productivity, and customer analytics. Skilled in building end-to-end machine learning models, LLM-based applications, and data-driven automation tools. Experienced in Agile project management and collaborating across teams to deliver data-driven solutions. Passionate about leveraging AI to solve complex problems.
 
 ---
 
 ## 🚀 About Me
-- *🌟 Professional Experience:* Former System Engineer at Tata Consultancy Services.
-  - Resolved critical data issues impacting supply chains, boosting production efficiency.
-  - Developed advanced data visualizations for quality improvement and governance.
-  - Spearheaded Agile and SAFe initiatives, delivering analytics-driven demos and risk mitigation strategies.
+- **🌟 Professional Experience:**
+
+- *Data Scientist (Engineer II) | Automotive Robotics India*
+  - Led end-to-end design and development "BOMSync360", a Python-based tool leveraging rule-based logic, a custom YOLO model, and OCR to automate title block extraction and detect mismatches between engineering and procurement BOMs, reducing manual effort and driving cost savings on the production floor.
+  - Led end-to-end design and development “DeepInspect”, a computer vision application using OpenCV and Python to automate wheel rim inspection by detecting and validating geometric features, reducing manual effort and enabling data-driven quality control.
+  - Developed “IntelliCase”, a Flask-based test case generation platform for mechanical domain user stories, leveraging LLaMA 3.2, LangChain, and RAG with vector databases to retrieve relevant historical cases and generate context-aware test cases using LLMs.
+  - Collaborated with cross-functional teams to evaluate client needs and provide AI/ML-driven proposals for multiple Statement of Work (SOW), ensuring alignment with technical feasibility and business impact.
+  - *Skills & Technologies:* Python, Flask, Tkinter, OpenCV, Pandas, LangChain, LLaMA 3.2, YOLO, OCR, RAG, Vector Databases, Computer Vision, Project Management, Agile
+
+- *Data Scientist | Win Technologies*
+  - Developed and fine-tuned machine learning models to predict customer behaviour using over 500,000 records from chat history, sales interactions, and demographics, achieving 95% testing accuracy.
+  - Applied advanced data preprocessing techniques (PCA, feature scaling, one-hot encoding, missing value imputation) and used NLP-based sentiment analysis on chat data to extract actionable insights and ensure deployment readiness.
+  - *Skills & Technologies:* Python, SQL, Pandas, NumPy, Scikit-learn, Azure Data Factory, Jupyter Notebook, Deep Learning, Natural Language Processing (NLP), TensorFlow, Classification Models, Hyperparameter Tuning
+
+- *System Engineer | Tata Consultancy Services*
+  - Validated and analysed over 2 million parts across Teamcenter, Siemens NX, and SAP, resolving critical data quality issues contributing to $17M in savings. Delivered actionable insights to international clients and SMEs, utilizing SQL, TIBCO Spotfire, and Excel.
+  - Processed 3+ million row dataset for a machine learning project, performing data preprocessing, EDA, feature engineering, and encoding using Python. Contributed to developing a TensorFlow-based deep learning model for issue classification and solutions.
+  - Led an 8-member global team to resolve data inconsistencies, completing the project in 3 months, ahead of the 1-year estimate. Used RACI Matrix, Gantt charts, and Kanban boards and played a key role in Agile Program Increments within the SAFe framework.
+  - *Skills & Technologies:* Data Analytics, Data Preprocessing, SQL, Microsoft SQL Server, Microsoft Excel, Python, Pandas, NumPy, Scikit-learn, TIBCO Spotfire, Azure Databricks, Jupyter Notebook, Data Visualization, Agile, Jira, SAP, Siemens NX, Teamcenter 
 
 - *🔧 Technical Skills:*
   - *Programming Languages:* Python, SQL, R
-  - *Libraries/Frameworks:* Scikit-Learn, Pandas, NumPy, TensorFlow, Keras, PySpark
-  - *Tools/Platforms:* Tableau, Power BI, Azure Databricks, Excel, Jupyter Notebook
-  - *Core Areas:* Machine Learning, Data Analytics, Deep Learning, Exploratory Data Analysis (EDA), Data Governance
+  - *Libraries/Frameworks:* Scikit-learn, TensorFlow, Keras, Pandas, NumPy, FastAPI, Flask, LangChain, OpenCV, PySpark
+  - *Tools/Platforms:* Jupyter Lab, VS Code, Git, Azure Databricks, Tableau, Power BI, TIBCO Spotfire, Excel, SAP, Teamcenter, Siemens NX
+  - *Core Areas:* Data Analytics, Machine Learning, Deep Learning, NLP, LLMs, Generative AI, Prompt Engineering, EDA, Computer Vision, RAG, API Development, Agile
 
 - *🎓 Education:* Bachelor of Engineering in Mechanical Engineering with First Class honors.
 
