@@ -1,6 +1,6 @@
 # Hi, I'm James Jeberson M 👋
 
-*Data Science Enthusiast | AI Engineer Professional | Google Data Analytics Professional | Passionate Problem-Solver*
+*Data Science Enthusiast | AI Engineering Professional | Google Data Analytics Professional | Passionate Problem-Solver*
 
 Welcome to my GitHub profile! I'm a skilled Data Science enthusiast with 4 years of experience delivering AI-powered solutions across domains like manufacturing, productivity, and customer analytics. Skilled in building end-to-end machine learning models, LLM-based applications, and data-driven automation tools. Experienced in Agile project management and collaborating across teams to deliver data-driven solutions. Passionate about leveraging AI to solve complex problems.
 
